@@ -1,0 +1,62 @@
+political_decisions = {
+#	sub_unit_test = {		#This works, and is used for building ships. 'current' can be any province ID.
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			tag = AQT
+#		}
+#		effect = {
+#			461 = {
+#				sub_unit = {
+#					type = manowar
+#					value = current
+#				}
+#			}
+#		}
+#	}
+
+#	troops_in_prov = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			tag = AQT
+#			HIS = {
+#				any_owned_province = {
+#					NOT = { country_units_in_province = THIS }
+#				}
+#			}
+#		}
+#		effect = {
+#			prestige = 1
+#		}
+#	}
+
+#	badboy = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			badboy = 0.8
+#		}
+#		effect = {
+#			prestige = 1
+#		}
+#	}
+
+#	cb_condition_test = {
+#		potential = {
+#			ai = no
+#		}
+#		allow = {
+#			casus_belli = FIN
+#			casus_belli = POL
+#		}
+#		effect = {
+#			prestige = 1
+#		}
+#	}
+
+
+}
